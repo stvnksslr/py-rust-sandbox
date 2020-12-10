@@ -7,5 +7,6 @@ This project exists to log testing of the python / rust bindings and creating py
 ### Setup
 
 - poetry install
+- poetry shell
 - maturin develop
 - python py_src/main.py
