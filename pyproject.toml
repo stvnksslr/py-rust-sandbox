@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyrust"
+name = "py-rust-sandbox"
 version = "0.1.0"
 description = ""
 authors = ["Steven Kessler <stvnksslr@gmail.com>"]

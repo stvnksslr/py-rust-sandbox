@@ -1,2 +1,11 @@
-poetry install
-maturin develop
+# Python-Rust-Sandbox
+
+### Desciption
+
+This project exists to log testing of the python / rust bindings and creating python modules via rust
+
+### Setup
+
+- poetry install
+- maturin develop
+- python py_src/main.py
