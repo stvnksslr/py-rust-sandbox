@@ -1,0 +1,13 @@
+[package]
+name = "point"
+version = "0.1.0"
+authors = ["Steven Kessler <stvnksslr@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "point"
+crate-type = ["cdylib"]
+
+[dependencies.pyo3]
+version = "0.12.4"
+features = ["extension-module"]
